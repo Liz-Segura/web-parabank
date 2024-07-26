@@ -1,0 +1,12 @@
+#Initial Cypress
+npm -i init
+
+# Upgrade Cypress
+npm install -D cypress@13.12.0
+
+# Run on console
+npx cypress run
+
+# Run on web
+npx cypress open
+
